@@ -17,6 +17,7 @@
               <svg class="bi" aria-hidden="true">
                 <use xlink:href="#chevron-right"></use>
               </svg>
+              
             </a>
           </div>
           <div class="col-auto d-none d-lg-block">
